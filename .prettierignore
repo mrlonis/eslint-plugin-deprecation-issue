@@ -1,0 +1,7 @@
+**/.angular
+**/.husky
+**/coverage
+**/dist
+**/junit
+
+**/package-lock.json
